@@ -61,3 +61,19 @@ $ flutter build apk
 O arquivo ficara disponivel na pasta projetofinal/andoroid/app/buil/output/realese.apk
 
 após isso baixe o apk e instale no seu celular
+
+# Contribuidores
+
+<table>
+  <tr>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-15/257221562_869665740405377_6731072938971029752_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=105&_nc_ohc=fjuzZkX5_fUAX_3mnDq&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjcwNjk4NTUyMzczMzIzNDM5Nw%3D%3D.2-ccb7-4&oh=00_AT8CbWtszYDy_NJMfTTB986irgO98cL3IPssns9uqU7tbw&oe=626D1441&_nc_sid=30a2ef" width="100px;" alt=""/><br /><sub><b>Davi Tisott</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-15/238414101_1450892685294642_5432416130332254215_n.jpg?stp=dst-jpg_e35_s320x320&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=106&_nc_ohc=P5td44MZmEcAX_dhrC1&tn=P4i9_bgzqacQ6g95&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT97uXTpVykfhETdMg1K5_p1VQkV5TiV5xBDA-LETZ83Wg&oe=626DF258&_nc_sid=7bff83" width="100px;" alt=""/><br /><sub><b>Lucas Francisquetti</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="https://scontent-gru1-2.cdninstagram.com/v/t51.2885-15/271128962_643390280440068_7936390270210843076_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_cat=100&_nc_ohc=h1oEsjRG2rwAX8k1YEZ&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=Mjc0MjY5ODIxODcyNTE5MTcwOA%3D%3D.2-ccb7-4&oh=00_AT8TThHvq40lXkj39vyrYOuc2HBYQ7TXU1Xp3sAYOK5PBw&oe=626D70D1&_nc_sid=30a2ef" width="100px;" alt=""/><br /><sub><b>Rafael Rodrigues</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-15/20904970_244091956113326_2140840437399683072_n.jpg?stp=dst-jpg_e35_s320x320&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=102&_nc_ohc=7Nc98ip96YoAX9os0cs&tn=P4i9_bgzqacQ6g95&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8tRtYnydRO7HENvcEfna9rYr5c4rPj5qdtLGVLBMuk0Q&oe=626EA1F6&_nc_sid=7bff83" width="100px;" alt=""/><br /><sub><b>Giulio Bertuol</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-15/275893259_1559632174433394_4741987072310508371_n.webp?stp=dst-jpg_e35&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=106&_nc_ohc=ESfjwlWHm5sAX8ypUA8&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjgwMDY0NzU3NTM5ODkyNzg4NA%3D%3D.2-ccb7-4&oh=00_AT8xEnAcB29aAmQ-cYhBvtOIPHHRZHpIEnrQIiS0EaCSYA&oe=626D37A7&_nc_sid=30a2ef" width="100px;" alt=""/><br /><sub><b>Abelardo Junior</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Felipe Courtois</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+
+  </tr>
+</table>
